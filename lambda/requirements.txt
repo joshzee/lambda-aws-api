@@ -1,0 +1,21 @@
+# HTTP requests library
+requests==2.31.0
+
+# JSON serialization/deserialization
+pydantic==2.5.2
+
+# Parsing and manipulating dates and times
+python-dateutil==2.8.2
+
+# AWS SDK extensions (boto3 is included in Lambda environment)
+aws-lambda-powertools==2.24.0
+
+# Data processing
+pandas==2.0.3
+
+# Environment variable management
+python-dotenv==1.0.0
+
+# JSON Web Tokens
+pyjwt==2.8.0
+
